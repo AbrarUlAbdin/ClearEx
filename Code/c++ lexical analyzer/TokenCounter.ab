@@ -1,0 +1,17 @@
+
+	int a, b, c;
+	float g,h ;
+	a=b=20;
+	c=6;
+	
+	if ( a > b)
+	{
+		c = a-b;
+		h = g-35;
+	}
+	
+	else
+	{
+		g = h+9;
+		b = a+c;
+	}
